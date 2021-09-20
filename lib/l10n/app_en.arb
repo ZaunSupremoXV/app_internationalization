@@ -1,0 +1,11 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The current Language"
+    },
+    "idioma": "Language",
+    "atual": "Current language",
+    "configuracoes_title": "Configuration",
+    "home_title": "One test",
+    "modo_escuro": "Dark Mode"
+}

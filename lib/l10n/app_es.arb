@@ -1,0 +1,11 @@
+{
+    "language": "Español",
+    "@language": {
+        "description": "The current Language"
+    },
+    "idioma": "Idioma",
+    "atual": "Idioma Actual",
+    "configuracoes_title": "Ajustes",
+    "home_title": "Una prueba",
+    "modo_escuro": "Modo Oscuro"
+}
