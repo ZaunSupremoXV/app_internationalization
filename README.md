@@ -2,7 +2,9 @@
 
 ## 📱🖥 App Internationalization
 
-<!-- <img src="https://i.imgur.com/Ckdwrj6.jpg" height="300em"> <img src="https://i.imgur.com/xBnZRED.jpg" height="300em"> <img src="https://i.imgur.com/76yGx6o.jpg" height="300em"> -->
+<img src="https://i.imgur.com/lD6y4ZE.jpg" height="300em"> <img src="https://i.imgur.com/iPy4nXB.jpg" height="300em"> <img src="https://i.imgur.com/T7v8bZd.jpg" height="300em">
+
+<img src="https://i.imgur.com/yx9K7GQ.jpg" height="300em"> <img src="https://i.imgur.com/SAsPqJW.jpg" height="300em">
 
 > Um aplicativo de exemplo de como por suporte a várias línguas no aplicativo. Foi utilizado shared preferences para salvar o idioma selecionado.
 
@@ -44,16 +46,15 @@ Agradecemos à seguinte pessoa que contribuiu para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Erick no GitHub"/>
-
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Erick no GitHub"/><br>
         <sub>
           <b>Erick Vasconcelos</b>
-        </sub>
-
+        </sub><br>
         <a href="https://www.buymeacoffee.com/erickzaunlab" target="_blank"><img src="https://raw.githubusercontent.com/appcraftstudio/buymeacoffee/master/Images/snapshot-bmc-button.png" width="100px;"></a>
       </a>
     </td>
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#-me-lembre)
+
+[⬆ Voltar ao topo](#-app_internationalization)<br>
